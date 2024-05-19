@@ -6,12 +6,12 @@ https://www.youtube.com/watch?v=ENLEjGozrio&t=503s
 
 Road map:
 
-Text preprocessing:(clean text data/input) Tokenization, Lemmatization, Stemming,  stop words
-Text preprocessing:(text data to vectors)BOW(bag of words), TFIDF, Unigrams, Bigrams
-Text preprocessing:(advance text data to vectors)word2vec , avg word2 vec
-(Neural Network): RNN, LSTM RNN, GRU RNN
-Text preprocessing: Word embedding
-Transformer: BERT
+1.Text preprocessing:(clean text data/input) Tokenization, Lemmatization, Stemming,  stop words
+2.Text preprocessing:(text data to vectors)BOW(bag of words), TFIDF, Unigrams, Bigrams
+3.Text preprocessing:(advance text data to vectors)word2vec , avg word2 vec
+4.(Neural Network): RNN, LSTM RNN, GRU RNN
+5.Text preprocessing: Word embedding
+6.Transformer: BERT
 
 
 Process-added model weight increases and accuracy increases
